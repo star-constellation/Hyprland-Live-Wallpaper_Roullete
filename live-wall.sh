@@ -18,8 +18,8 @@ wallpapers=(
 while true; do
     NUM=$((RANDOM % ${#wallpapers[@]}))
 
-    pkill mpvpaper
-    mpvpaper '*' "${wallpapers[$NUM]}" --mpv-options "loop panscan=1.0"
+pkill -f "mpvpaper"
+mpvpaper '*' "${wallpapers[$NUM]}" --mpv-options "loop panscan=1.0"
 
     sleep 15m
 done
