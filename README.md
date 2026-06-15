@@ -8,7 +8,7 @@ It's also easier to add a live wallpaper.
 
 * Hyprland (or other linux distro)
 * Bash
-* mpvpaper (You can download it "yay -S mpvpaper)
+* mpvpaper (You can download it "yay -S mpvpaper"
 
 ## Customization
 
