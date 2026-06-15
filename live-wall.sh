@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WALLDIR="/home/jwo/videos"
+WALLDIR="$HOME/videos"
 
 wallpapers=(
     "$WALLDIR/ahri.mp4"
