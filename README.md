@@ -6,7 +6,8 @@ It's also easier to add a live wallpaper.
 
 ## Requirements 
 
-* Hyprland (or other linux distro)
+* Hyprland or another compatible desktop/compositor
+* Linux (Arch, Ubuntu, Fedora, etc.)
 * Bash
 * mpvpaper (You can download it "yay -S mpvpaper")
 
