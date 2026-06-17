@@ -20,7 +20,7 @@ It's also easier to add a live wallpaper.
 
 # ABOUT
 
-I'm thinking to myself that it's cool to have a live wallpaper and so I research some methods and tools to do it in linux terminal.
+I'm thinking to myself that it's cool to have a live wallpaper and so I researched some methods and tools to do it in linux terminal.
 I also had an idea that I also can make a roulette again using this tool for live wallpaper and so I did.
 
 Hope you enjoyed it! :D
